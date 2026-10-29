@@ -1,7 +1,7 @@
 ### Hi, I'm Nicolás 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nickofitz-0A66C2)](https://www.linkedin.com/in/nickofitz/)
-[![Email](https://img.shields.io/badge/email-YOUR__EMAIL-D14836)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/email-nickofitzmh%40gmail.com-D14836)](mailto:nickofitzmh@gmail.com)
 ![Location](https://img.shields.io/badge/Santiago%2C%20Chile-hybrid%20%7C%20remote-555555)
 
 Mathematician (M.Sc.) moving into **data science**. I turn messy, real-world problems into models, code and explanations that non-specialists can act on.
